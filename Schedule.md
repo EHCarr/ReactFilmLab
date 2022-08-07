@@ -68,7 +68,7 @@
 
 
   <td>
-    <a href="Lessons/Week01/Day01/Command_Line_Intro.md">Intro to Command line</a></br></br>
+    <a href="Lessons/Week01/Day01/CommandLine.md">Intro to Command line</a></br></br>
   </td>
   <td>
    <a href="Lessons/Week01/Day02/Git-GitHub/README.md">Git and GitHub</a></br></br>
