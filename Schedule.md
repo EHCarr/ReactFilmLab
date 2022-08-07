@@ -34,7 +34,7 @@
   <td>
     Orientation</br><br>
     <a href="Lessons/Week01/Day01/installfest.md">Installfest</a><br><br>
-      <strong>Outcomes 11.30am-12.00pm</strong>
+     
    
   </td>
   <td>
@@ -42,6 +42,7 @@
     <a href="Lessons/Week01/Day02/Git-GitHub/README.md">Git and GitHub</a></br></br>
   </td>
   <td>
+   <strong>Outcomes 09.30AM - 10.30AM</strong>
   <a href="Warmups/Week01/Day03/README.md">Warmup</a></br></br>
     <a href="Lessons/Week01/Day03/html.md">Intro to HTML</a></br></br>
   </td>
