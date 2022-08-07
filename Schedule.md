@@ -11,7 +11,7 @@
 </hr>
 <br>
 
-### Unit 1 -  Week 1 (May 03rd - May 6th)
+### Unit 1 -  Week 1 (Aug 08th - Aug 12th)
 
 <table>
 <thead>
@@ -29,9 +29,7 @@
 <tr>
   <td><strong>Morning</strong></td>
 
-<td>
-   --
-  </td>
+
 
   <td>
     Orientation</br><br>
@@ -52,15 +50,21 @@
     <a href="Lessons/Week01/Day04/css-positioning/README.md">CSS Positioning</a></br></br>
    
   </td>
+
+<td>
+   <a href="Warmups/Week02/Day01/HTML&CSS/readme.md">Warmup</a></br></br>
+   <a href="Lessons/Week02/Day01/js-intro/README.md">Intro to JS</a></br></br>
+     <a href="Lessons/Week02/Day01/js-arrays&loops/readme.md">JS Arrays, Loops</a></br></br>
+     <a href="Lessons/Week02/Day01/js-arrays&loops/Exercises/loops/lap1.md">Loops LAB</a></br></br>
+      <a href="Lessons/Week02/Day01/js-arrays%26loops/Exercises/arrays/lap1.md">Arrays LAB</a></br></br>
+  </td>
 </tr>
 
 <tr>
   <td><strong>Afternoon</strong></td>
 
   
-<td>
-   --
-  </td>
+
 
   <td>
     <a href="Lessons/Week01/Day01/Command_Line_Intro.md">Intro to Command line</a></br></br>
@@ -76,14 +80,18 @@
     <a href="Lessons/Week01/Day04/flexbox/README.md">Flexbox</a></br></br>
   </td>
 
+<td>
+ <a href="Lessons/Week02/Day01/js-functions/README.md">JS Functions</a></br></br>
+ <a href="Lessons/Week02/Day01/js-functions/Lab.js">JS LAB (Deliverable)</a></br></br>
+
+  </td>
+
 </tr>
 
 <tr>
   <td><strong>Homework</strong></td>
   
-<td>
-   --
-  </td>
+
   <td>
     <a href="https://edabit.com/tutorial/javascript">Edabit javascript tutorial</a><br><br>
     <strong>Look ahead</strong> at material<br> (especially loops, arrays, and loops with arrays))<br><br>
@@ -91,13 +99,17 @@
     <a href="Lessons/Week01/Day01/CommandLine.md">Review how to use Command Line</a>(Skim)<br><br>
   </td>
   <td>
-   Homework
+      <a href=""> Homework </a></br></br>
   </td>
   <td>
    <a href="Homework/Week01/Day03/html-coppa-club/"> Coppa Club (Deliverable)</a></br></br>
   </td>
   <td>
    <a href="Homework/Week01/Day04/airbnb/"> Airbnb (Deliverable)</a></br></br>
+  </td>
+
+<td>
+   <a href=""> Homework </a></br></br>
   </td>
 
 </tr>
