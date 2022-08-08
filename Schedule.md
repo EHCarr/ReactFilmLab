@@ -34,20 +34,17 @@
   <td>
     Orientation</br><br>
     <a href="Lessons/Week01/Day01/installfest.md">Installfest</a><br><br>
-     
-   
   </td>
   <td>
-    <a href="">Warmup</a></br></br>
+    <a href="Warmups/Week01/Day02/README.md">Warmup</a></br></br>
     <a href="Lessons/Week01/Day02/Git-GitHub/README.md">Git and GitHub</a></br></br>
   </td>
   <td>
-   <strong>Outcomes 09.30AM - 10.30AM</strong> <br>
-  <a href="Warmups/Week01/Day03/README.md">Warmup</a></br></br>
+   <strong>Outcomes 09.30AM - 10.30AM</strong> <br><br>
     <a href="Lessons/Week01/Day03/html.md">Intro to HTML</a></br></br>
   </td>
   <td>
-  <a href="Warmups/Week01/Day04/html&css-portfolio/README.md">HTML & CSS Portfolio Warmup</a></br></br>
+  <a href="Warmups/Week01/Day03/html&css-portfolio/README.md">HTML & CSS Portfolio Warmup</a></br></br>
     <a href="Lessons/Week01/Day04/css-positioning/README.md">CSS Positioning</a></br></br>
    
   </td>
