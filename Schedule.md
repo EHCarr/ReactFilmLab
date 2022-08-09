@@ -97,7 +97,7 @@
     <a href="Lessons/Week01/Day01/CommandLine.md">Review how to use Command Line</a>(Skim)<br><br>
   </td>
   <td>
-      <a href=""> Homework </a></br></br>
+      <a href="https://education.github.com/git-cheat-sheet-education.pdf"> Review GitHub Commands </a></br></br>
   </td>
   <td>
    <a href="Homework/Week01/Day03/html-coppa-club/"> Coppa Club (Deliverable)</a></br></br>
