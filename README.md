@@ -11,7 +11,7 @@
 |Role        | Name            | Slack       | Email |
 |:--         | :--             | :--         | :-- |
 |Lead Instructor | Saad Iqbal | @saadiqbal | saad.iqbal@generalassemb.ly 
-|Instructional Associate | Marilyn Poku | @marilynpoku | marilyn.poku@generalassemb.ly
+|Instructional Associate | Ana Borges | @anaborges | ana.borges@generalassemb.ly
 
 ### Course Information
 
