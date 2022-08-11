@@ -50,11 +50,11 @@
   </td>
 
 <td>
-   <a href="Warmups/Week02/Day01/HTML&CSS/readme.md">Warmup</a></br></br>
-   <a href="Lessons/Week02/Day01/js-intro/README.md">Intro to JS</a></br></br>
-     <a href="Lessons/Week02/Day01/js-arrays&loops/readme.md">JS Arrays, Loops</a></br></br>
-     <a href="Lessons/Week02/Day01/js-arrays&loops/Exercises/loops/lap1.md">Loops LAB</a></br></br>
-      <a href="Lessons/Week02/Day01/js-arrays%26loops/Exercises/arrays/lap1.md">Arrays LAB</a></br></br>
+   <a href="Warmups/Week01/Day05/HTML&CSS/">Warmup</a></br></br>
+   <a href="Lessons/Week01/Day05/js-intro/README.md">Intro to JS</a></br></br>
+     <a href="Lessons/Week01/Day05/js-arrays&loops/readme.md">JS Arrays, Loops</a></br></br>
+     <a href="Lessons/Week01/Day05/js-arrays&loops/Exercises/loops/lap1.md">Loops LAB</a></br></br>
+      <a href="Lessons/Week01/Day05/js-arrays%26loops/Exercises/arrays/lap1.md">Arrays LAB</a></br></br>
   </td>
 </tr>
 

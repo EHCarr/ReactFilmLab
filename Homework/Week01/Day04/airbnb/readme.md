@@ -21,6 +21,6 @@ Next move on to the big picture layout.
 * Create flex containers.
 * Justify and align the elements inside.
 
-Next move on to reusable components eg. buttons, location items with background images
+Next move on to reusable components eg. buttons, location items with background images.
 
 See how you get on, work together to help each other out and please ASK FOR HELP when you need it :)
