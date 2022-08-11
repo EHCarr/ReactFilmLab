@@ -51,6 +51,7 @@
 
 <td>
    <a href="Warmups/Week01/Day05/HTML&CSS/">Warmup</a></br></br>
+   <a href="Lessons/Week01/Day04/flexbox/README.md">Flexbox</a></br></br>
    <a href="Lessons/Week01/Day05/js-intro/README.md">Intro to JS</a></br></br>
      <a href="Lessons/Week01/Day05/js-arrays&loops/readme.md">JS Arrays, Loops</a></br></br>
      <a href="Lessons/Week01/Day05/js-arrays&loops/Exercises/loops/lap1.md">Loops LAB</a></br></br>
@@ -79,8 +80,8 @@
   </td>
 
 <td>
- <a href="Lessons/Week02/Day01/js-functions/README.md">JS Functions</a></br></br>
- <a href="Lessons/Week02/Day01/js-functions/Lab.js">JS LAB (Deliverable)</a></br></br>
+ <a href="Lessons/Week01/Day05/js-functions/README.md">JS Functions</a></br></br>
+ <a href="Lessons/Week01/Day05/js-functions/Lab.js">JS LAB (Deliverable)</a></br></br>
 
   </td>
 
@@ -103,11 +104,12 @@
    <a href="Homework/Week01/Day03/html-coppa-club/"> Coppa Club (Deliverable)</a></br></br>
   </td>
   <td>
-   <a href="Homework/Week01/Day04/airbnb/"> Airbnb (Deliverable)</a></br></br>
+   <a href=""> Homework </a></br></br></br></br>
   </td>
 
 <td>
-   <a href=""> Homework </a></br></br>
+   <a href="Homework/Week01/Day04/airbnb/"> Airbnb (Deliverable)</a></br></br>
+    <a href="Lessons/Week01/Day05/js-functions/Lab.js">JS LAB (Deliverable)</a></br></br>
   </td>
 
 </tr>
