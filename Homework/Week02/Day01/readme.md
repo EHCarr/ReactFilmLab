@@ -89,10 +89,6 @@ stopsBetweenStations("Red", "South Station", "Green", "Copley");
 // Rider exits the train at Green Line and Copley.
 ```
 
-### Bonus (Super Optional)
-
-If you have made it this far and are still looking for a challenge. Then take a stab at the [MTA Puzzle](https://git.generalassemb.ly/SEI-15-KSA-Online/hw-w02d02-js-mta-optional) and see how far you can push yourself.
-
 ### [License](LICENSE)
 
 1. All content is licensed under a CC­BY­NC­SA 4.0 license.
