@@ -1,84 +1,100 @@
-![ga_cog_large_red_rgb](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png)
+#
 
-Javascript Calculator 
-=====
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-## Instructions
+## JS Object Modeling
 
-Create a calculator that takes input from the browser. The calculator should display the results using alert. You do not need to use functions to complete this task. 
+### Objectives
 
-The calculator should do the basic arithmetic operations.
+- Practice with functions, arrays, and objects.
 
-### Basic Calculator
+### Activity
 
-1. Must take user input using prompt
-2. Must be able to +, -, / and *
-3. Must be able display the result using alert
-4. Should use a loop!
-5. Should handle floats
+- Create a file named `mbta.js` to calculate the number of stops between
+  stations on the "MBTA". Write additional functions used by this function as
+  needed.
+- The function takes the line and stop that a rider is getting on at and the
+  line and stop that a rider is getting off at and **returns the total number of
+  stops for the trip**.
 
-### Advanced Calculator
- 
-Implement the advanced calculator:
+There are 3 subway lines:
 
-7. Functionality for 'power'
-8. Functionality for 'square root'
+- Red
+  - South Station
+  - Park Street
+  - Kendall
+  - Central
+  - Harvard
+  - Porter
+  - Davis
+  - Alewife
+- Green
+  - Government Center
+  - Park Street
+  - Boylston
+  - Arlington
+  - Copley
+  - Hynes
+  - Kenmore
+- Orange
+  - North Station
+  - Haymarket
+  - Park Street
+  - State
+  - Downtown Crossing
+  - Chinatown
+  - Back Bay
+  - Forest Hills
+- All 3 subway lines intersect at _Park Street_, but there are no other intersection points.
 
-<br> 
+The function will be invoked using the following pattern of arguments:
 
-## Bonus Tasks
+`Start Line`, `Start Station`, `End Line`, `End Station`
 
-Add these additional settings to the calculator.
+Here are some examples of how should be invoked.
 
-### Mortgage Calculator:
-
-Calculate the monthly payment when given the other variables as input.
-you need `principal`, `yearly interest rate` and the `number of payments`. 
-
-- [Morgage Link 1](http://www.wikihow.com/Calculate-Mortgage-Payments)
-- [Morgage Link 2](http://www.wikihow.com/Sample/Mortgage-Payment)
-
-**Example:** £100,000.00 for-  30 years (360 months) at 6% will yield a payment of just less than £600.00 (£599.55 to be exact`
-
-### BMI Calculator:
-
-Calculate the BMI when given the height and weight - the user should be able to choose between the imperial and the metric system
-
-- [BMI Link 1](http://en.wikipedia.org/wiki/Body_mass_index)
-- [BMI Link 1](http://www.wikihow.com/Image:BMI.jpg)
-
-### Trip Calculator:
-
-This feature asks the user for four inputs; distance, fuel efficiency (mpg), cost per gallon, speed and it will give you the time and price of your journey.
-
-**Example output:** "Your trip will take 3.5 hours and cost £255.33.""
-
-**Note:** For every 1 MPH over 60 MPH, reduce the the MPG by 2 MPG (i.e. a car that normally gets 30 mpg would only get 28 mpg if its speed were 61 mph. Yes this gets silly at high speed where mpg goes to zero or gets negative - how will you handle this?)
-
-
-<br>
-
-## Tips
-
-- Make sure you plan before you start using pseudocode.
-- Test your code as you go, fight the urge to write to many lines in one go, ensure each one works as expected before moving on.
-- console log to check that your values are as expected as you code. You can check the data type with `typeof`.
-- **Be careful with loops!** If you find that you are in an infinite loop, close the browser window immediately. If your browser is unresponsive choose Force Quit... from the Apple menu, select Chrome, click 'Force Quit'.
-
-#### Prompt() & Alert()
-
-The `Window.prompt()` displays a dialog with an optional message prompting the user to input some text.
-
-The `Window.alert()` method displays an alert dialog with the optional specified content and an OK button.
-
-```
-var answer = prompt("What is 5 multipled by 2?");
-
-if (answer == 10) {
-  alert("Wow! Correct!");
-} else {
-  alert("Wrong!")
-}
+```js
+stopsBetweenStations("Red", "Alewife", "Red", "Alewife"); // 0 stops
+stopsBetweenStations("Red", "Alewife", "Red", "South Station"); // 7 stops
+stopsBetweenStations("Red", "South Station", "Green", "Kenmore"); // 6 stops
 ```
 
-<br>
+### Hints
+
+- Consider diagramming the lines by sketching out the subway lines and their
+  stops and intersection.
+- Solve an easier problem first like only traveling on the Red line.
+- Assume good input. Your function does not need to check the validity of the line or
+  stop.
+- Subway lines are keys in a dictionary (object literal), while the values are
+  a list (array) of all the stops on each line.
+- The key to the practice is to find the **intersection** of the lines at
+  _Park Street_.
+
+## Bonus (Optional)
+
+- Add validation so that the function only accepts Red, Green, and Orange for lines and only accepts the correct stops for each of their stops.
+- Have the function print the line and stops as they ride the train.
+- Example:
+
+```js
+stopsBetweenStations("Red", "South Station", "Green", "Copley");
+
+// Rider boards the train a Red Line and South Station.
+// Rider arrives at Red Line and Park Street.
+// Rider transfers from Red Line to Green Line at Park Street.
+// Rider arrives at Green Line and Boylston.
+// Rider arrives at Green Line and Arlington.
+// Rider arrives at Green Line and Copley.
+// Rider exits the train at Green Line and Copley.
+```
+
+### Bonus (Super Optional)
+
+If you have made it this far and are still looking for a challenge. Then take a stab at the [MTA Puzzle](https://git.generalassemb.ly/SEI-15-KSA-Online/hw-w02d02-js-mta-optional) and see how far you can push yourself.
+
+### [License](LICENSE)
+
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
+   alternative licensing, please contact legal@ga.co.

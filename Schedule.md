@@ -6,6 +6,105 @@
 <i><strong>Homework due dates</strong>: Deliverables are always due 1 week after they are assigned, at midnight. (Ie., A deliverable assigned Monday January 1st will be due Monday January 8th at midnight). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
 
+<br>
+</hr>
+<br>
+
+
+### Unit 1 -  Week 2 (Aug 15th - Aug 19th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+
+
+
+  <td>
+    <a href="Warmups/Week02/Day02/LeapYear/README.md">Warmup</a></br></br>
+    <a href="Lessons/Week02/Day01/JSObjects/readme.md">JS Objects</a><br><br>
+   
+  </td>
+  <td>
+    <a href="Warmups/Week02/Day03/Scrabble.md">Warmup</a></br></br>
+    <a href="Lessons/Week02/Day02/DOM/README.md">DOM Manipulation using Javascript</a></br></br>
+  </td>
+  <td>
+  <a href="Warmups/Week02/Day04/readme.md">Warmup</a></br></br>
+    <a href="Lessons/Week02/Day03/Jquery/README.md">jQuery</a></br></br>
+  </td>
+  <td>
+  <a href="Warmups/Week02/Day05/README.md">Warmup</a></br></br>
+    <a href="Lessons/Week02/Day04/README.md">Wireframes and User Stories</a></br></br>
+   
+  </td>
+
+  <td>
+    Finalize Project 01 Idea
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+
+
+
+  <td>
+      <a href="Lessons/Week02/Day01/JSObjects/readme.md">JS Objects (Continue) </a><br><br>
+  </td>
+  <td>
+    <a href="Lessons/Week02/Day02/DOM/README.md">DOM Manipulation using Javascript</a></br></br>
+     <a href="Lessons/Week02/Day02/DOM/Labs.md">JS DOM Lab</a></br></br>
+  </td>
+  <td>
+          <a href="Lessons/Week02/Day03/Jquery/README.md">jQuery DOM Manipulation</a></br></br>
+  </td>
+  <td>
+    <a href="Projects/Project-1/readme.md">Project 01</a></br></br>
+  </td>
+
+ <td>
+    Finalize Project 01 Idea
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  
+
+<td>
+   <a href="Homework/Week02/Day01/README.md"> Objects (Deliverable)</a></br></br>
+  </td>
+<td>
+   <a href="Homework/Week02/Day02/js-soundboard-start"> Daft Punk (Deliverable)</a></br></br>
+  </td>
+  <td>
+   <a href=""> Homework </a></br></br>
+  </td>
+  <td>
+   <a href=""> Project 01 </a></br></br>
+  </td>
+ <td>
+    Work on Project 01
+  </td>
+
+</tr>
+</tbody>
+</table>
+
 
 <br>
 </hr>
