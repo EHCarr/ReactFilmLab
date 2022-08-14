@@ -86,7 +86,7 @@
   
 
 <td>
-   <a href="Homework/Week02/Day01/README.md"> Objects (Deliverable)</a></br></br>
+   <a href="Homework/Week02/Day01/readme.md"> Objects (Deliverable)</a></br></br>
   </td>
 <td>
    <a href="Homework/Week02/Day02/js-soundboard-start"> Daft Punk (Deliverable)</a></br></br>
