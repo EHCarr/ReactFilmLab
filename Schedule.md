@@ -32,20 +32,20 @@
 
 
   <td>
-    <a href="Warmups/Week02/Day02/LeapYear/README.md">Warmup</a></br></br>
+    <a href="Warmups/Week02/Day01/LeapYear/README.md">Warmup</a></br></br>
     <a href="Lessons/Week02/Day01/JSObjects/readme.md">JS Objects</a><br><br>
    
   </td>
   <td>
-    <a href="Warmups/Week02/Day03/Scrabble.md">Warmup</a></br></br>
+    <a href="Warmups/Week02/Day02/Scrabble.md">Warmup</a></br></br>
     <a href="Lessons/Week02/Day02/DOM/README.md">DOM Manipulation using Javascript</a></br></br>
   </td>
   <td>
-  <a href="Warmups/Week02/Day04/readme.md">Warmup</a></br></br>
+  <a href="Warmups/Week02/Day03/readme.md">Warmup</a></br></br>
     <a href="Lessons/Week02/Day03/Jquery/README.md">jQuery</a></br></br>
   </td>
   <td>
-  <a href="Warmups/Week02/Day05/README.md">Warmup</a></br></br>
+  <a href="Warmups/Week02/Day04/README.md">Warmup</a></br></br>
     <a href="Lessons/Week02/Day04/README.md">Wireframes and User Stories</a></br></br>
    
   </td>
