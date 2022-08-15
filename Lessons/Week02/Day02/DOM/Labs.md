@@ -1,4 +1,6 @@
-# LAB # 1 : JS DOM Manipulation - 30 Mins
+# JS DOM Manipulation Labs
+
+# LAB # 1 : About Me and The Book List - 30 Mins
 
 ## About Me
 
@@ -87,14 +89,12 @@ var books = [
 - Add a property to each book with a URL of the book cover image. For each book, add an `img` element for each book on the page
 - Change the style of the book depending on whether you have read it or not (e.g. make the text color red if you have read it)
 
-<br>
 <hr>
 <br>
+<br>
 
 
-### LAB 2 - 30 Mins
-
-# Creating Random Images
+# LAB 2 - Creating Random Images - 30 Mins
 
 Start of with the following HTML:
 
@@ -149,13 +149,12 @@ Suggested options:
 - [Place Cage](http://www.placecage.com/)
 - [Lorem Flickr](https://loremflickr.com/)
 
-<br>
 <hr>
 <br>
+<br>
 
 
-### LAB 3 - 50 Mins
-#  Animation
+# LAB 3 - Animation - 50 Mins
 
 ## The Cat Walk
 
@@ -212,13 +211,12 @@ Go crazy! Do whatever you want. Add music, more images, animations - whatever yo
 - [Example 3](http://rodneyss.github.io/walkcat/)
 - [Example 4](http://charliegerard.github.io/dancingcats/)
 
-<br>
 <hr>
 <br>
+<br>
 
 
-### LAB 4
-# Optional LAB: Calculator
+# LAB 4 - Optional LAB: Calculator - (30 Mins)
 
 Start with this webpage, which has inputs and buttons for things to calculate:
 
