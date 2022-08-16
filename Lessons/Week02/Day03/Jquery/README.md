@@ -1,6 +1,4 @@
-# W02D04-jQuery
-
-
+# jQuery
 
 
 ## What is jQuery?
