@@ -45,7 +45,7 @@
     <a href="Lessons/Week02/Day03/Jquery/README.md">jQuery</a></br></br>
   </td>
   <td>
-  <a href="Warmups/Week02/Day04/README.md">Warmup</a></br></br>
+  <a href="Warmups/Week02/Day04/readme.md">Warmup</a></br></br>
     <a href="Lessons/Week02/Day04/README.md">Wireframes and User Stories</a></br></br>
    
   </td>
