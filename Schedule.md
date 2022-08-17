@@ -95,7 +95,7 @@
    <a href=""> Homework </a></br></br>
   </td>
   <td>
-   <a href=""> Project 01 </a></br></br>
+   <a href="Projects/Project-1/readme.md">Project 01</a></br></br>
   </td>
  <td>
     Work on Project 01
