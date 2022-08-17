@@ -6,6 +6,105 @@
 <i><strong>Homework due dates</strong>: Deliverables are always due 1 week after they are assigned, at midnight. (Ie., A deliverable assigned Monday January 1st will be due Monday January 8th at midnight). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
 
+<br>
+</hr>
+<br>
+
+
+### Unit 1 -  Week 2 (Aug 15th - Aug 19th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+
+
+
+  <td>
+    <a href="Warmups/Week02/Day01/LeapYear/README.md">Warmup</a></br></br>
+    <a href="Lessons/Week02/Day01/JSObjects/readme.md">JS Objects</a><br><br>
+   
+  </td>
+  <td>
+    <a href="Warmups/Week02/Day02/Scrabble.md">Warmup</a></br></br>
+    <a href="Lessons/Week02/Day02/DOM/README.md">DOM Manipulation using Javascript</a></br></br>
+  </td>
+  <td>
+  <a href="Warmups/Week02/Day03/readme.md">Warmup</a></br></br>
+    <a href="Lessons/Week02/Day03/Jquery/README.md">jQuery</a></br></br>
+  </td>
+  <td>
+  <a href="Warmups/Week02/Day04/README.md">Warmup</a></br></br>
+    <a href="Lessons/Week02/Day04/README.md">Wireframes and User Stories</a></br></br>
+   
+  </td>
+
+  <td>
+    Finalize Project 01 Idea
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+
+
+
+  <td>
+      <a href="Lessons/Week02/Day01/JSObjects/readme.md">JS Objects (Continue) </a><br><br>
+  </td>
+  <td>
+    <a href="Lessons/Week02/Day02/DOM/README.md">DOM Manipulation using Javascript</a></br></br>
+     <a href="Lessons/Week02/Day02/DOM/Labs.md">JS DOM Lab</a></br></br>
+  </td>
+  <td>
+          <a href="Lessons/Week02/Day03/Jquery/README.md">jQuery DOM Manipulation</a></br></br>
+  </td>
+  <td>
+    <a href="Projects/Project-1/readme.md">Project 01</a></br></br>
+  </td>
+
+ <td>
+    Finalize Project 01 Idea
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  
+
+<td>
+   <a href="Homework/Week02/Day01/readme.md"> Objects (Deliverable)</a></br></br>
+  </td>
+<td>
+   <a href="Homework/Week02/Day02/js-soundboard-start"> Daft Punk (Deliverable)</a></br></br>
+  </td>
+  <td>
+   <a href=""> Homework </a></br></br>
+  </td>
+  <td>
+   <a href=""> Project 01 </a></br></br>
+  </td>
+ <td>
+    Work on Project 01
+  </td>
+
+</tr>
+</tbody>
+</table>
+
 
 <br>
 </hr>
@@ -50,11 +149,12 @@
   </td>
 
 <td>
-   <a href="Warmups/Week02/Day01/HTML&CSS/readme.md">Warmup</a></br></br>
-   <a href="Lessons/Week02/Day01/js-intro/README.md">Intro to JS</a></br></br>
-     <a href="Lessons/Week02/Day01/js-arrays&loops/readme.md">JS Arrays, Loops</a></br></br>
-     <a href="Lessons/Week02/Day01/js-arrays&loops/Exercises/loops/lap1.md">Loops LAB</a></br></br>
-      <a href="Lessons/Week02/Day01/js-arrays%26loops/Exercises/arrays/lap1.md">Arrays LAB</a></br></br>
+   <a href="Warmups/Week01/Day05/HTML&CSS/">Warmup</a></br></br>
+   <a href="Lessons/Week01/Day04/flexbox/README.md">Flexbox</a></br></br>
+   <a href="Lessons/Week01/Day05/js-intro/README.md">Intro to JS</a></br></br>
+     <a href="Lessons/Week01/Day05/js-arrays&loops/readme.md">JS Arrays, Loops</a></br></br>
+     <a href="Lessons/Week01/Day05/js-arrays&loops/Exercises/loops/lap1.md">Loops LAB</a></br></br>
+      <a href="Lessons/Week01/Day05/js-arrays%26loops/Exercises/arrays/lap1.md">Arrays LAB</a></br></br>
   </td>
 </tr>
 
@@ -79,8 +179,8 @@
   </td>
 
 <td>
- <a href="Lessons/Week02/Day01/js-functions/README.md">JS Functions</a></br></br>
- <a href="Lessons/Week02/Day01/js-functions/Lab.js">JS LAB (Deliverable)</a></br></br>
+ <a href="Lessons/Week01/Day05/js-functions/README.md">JS Functions</a></br></br>
+ <a href="Lessons/Week01/Day05/js-functions/Lab.js">JS LAB (Deliverable)</a></br></br>
 
   </td>
 
@@ -103,11 +203,12 @@
    <a href="Homework/Week01/Day03/html-coppa-club/"> Coppa Club (Deliverable)</a></br></br>
   </td>
   <td>
-   <a href="Homework/Week01/Day04/airbnb/"> Airbnb (Deliverable)</a></br></br>
+   <a href=""> Homework </a></br></br></br></br>
   </td>
 
 <td>
-   <a href=""> Homework </a></br></br>
+   <a href="Homework/Week01/Day04/airbnb/"> Airbnb (Deliverable)</a></br></br>
+    <a href="Lessons/Week01/Day05/js-functions/Lab.js">JS LAB (Deliverable)</a></br></br>
   </td>
 
 </tr>
