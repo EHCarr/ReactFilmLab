@@ -6,6 +6,93 @@
 <i><strong>Homework due dates</strong>: Deliverables are always due 1 week after they are assigned, at midnight. (Ie., A deliverable assigned Monday January 1st will be due Monday January 8th at midnight). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
 
+
+### Unit 1 -  Week 3 (Aug 22nd - Aug 26th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+
+<td>
+   Work on Project 01</br></br>
+  </td>
+
+<td>
+   Work on Project 01</br></br>
+  </td>
+<td>
+   Work on Project 01</br></br>
+  </td>
+<td>
+<strong> Outcomes 09.30 am - 10.30 am</strong> </br></br>
+
+   <a href="Projects/Project-1/GitHubDeploy"> Deployment Sesssion </a> </br></br>
+  </td>
+<td>
+   Project 01 Presentation</br></br>
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+
+<td>
+   Work on Project 01</br></br>
+  </td>
+
+<td>
+   Work on Project 01</br></br>
+  </td>
+<td>
+   Work on Project 01</br></br>
+  </td>
+<td>
+   Work on Project 01</br></br>
+  </td>
+<td>
+   Project 01 Presentation</br></br>
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  
+<td>
+   Work on Project 01</br></br>
+  </td>
+
+<td>
+   Work on Project 01</br></br>
+  </td>
+<td>
+   Work on Project 01</br></br>
+  </td>
+<td>
+   Work on Project 01</br></br>
+  </td>
+<td>
+   Project 01 Presentation</br></br>
+  </td>
+
+</tr>
+</tbody>
+</table>
+
+
 <br>
 </hr>
 <br>
