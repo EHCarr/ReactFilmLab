@@ -7,6 +7,98 @@
 
 
 
+<br>
+</hr>
+<br>
+
+### Unit 2 - Week 4 (Aug 29th - Sep 02nd)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+
+  <td>
+   OFF </td>
+
+  <td> <a href="Warmups/Week04/Day01/README.md">Warmup</a> <br>
+          <a href="Lessons/Week04/Day01/OOJS/README.md">Object Oriented JavaScript and Classes</a></td>
+  <td><a href="https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript">Warmup</a> <br>
+          <a href="Lessons/Week04/Day02/express-lesson.md">Intro To Express</a></td></td>
+  <td><a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/javascript">Warmup #1</a> <br>
+      <a href="https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript">Warmup #2</a> <br>
+          <a href="Lessons/Week04/Day02/express-lesson.md#middleware-1">Express MiddleWare</a></td>
+  <td>
+    <a href="Warmups/Week04/Day04/express-api-warmup.md">Warmup</a> <br>
+  <!-- <a href="https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/javascript">Warmup #1</a> <br>
+  <a href="https://www.codewars.com/kata/569d488d61b812a0f7000015/train/javascript">Warmup #2</a> <br> -->
+          <a href="Lessons/Week04/Day04/mongodb-intro.md">Intro to MongoDB</a> </td>
+  <!-- <td>
+   <a href="https://www.codewars.com/kata/56efc695740d30f963000557/train/javascript">Warmup</a> <br>
+          <a href="Lessons/Week04/Day05/express-crud-mongoDB.md">Express CRUD - MongoDB</a></td> -->
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+    <td>
+   OFF </td>
+  <td> <a href="Lessons/Week04/Day01/OOJS/README.md">Object Oriented JavaScript and Classes</a> <br>
+   <a href="Lessons/Week04/Day01/OOJS/README.md#Labs">JS Classes Lab</a> </td>
+  <td>Express Continued</td>
+  <td>
+  <a href="Lessons/Week04/Day02/express-lesson.md#express-as-an-api-1">Express API CRUD</a></td>
+  <!-- <td><a href="Lessons/Week04/Day03/dev-skills-lab-part-1.md">Dev Skills Lab Part 1 (Deliverable)</a></td> -->
+  <td><a href="Lessons/Week04/Day04/mongodb-intro.md">MongoDB Continued</a> </td>
+
+  <!-- <td><a href="Lessons/Week04/Day05/express-crud-mongoDB.md">Express CRUD - MongoDB</a></td> -->
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+    <td>
+   OFF </td>
+  <td>  <ul>
+      <li><a href="Lessons/Week04/Day01/OOJS/README.md">JS Classes Lab</a></li>
+      <li>Review notes/recording. Write lots of code! Practice.</li>
+    </ul></td>
+  <td>
+    <ul>
+      <li><a href="https://ncoughlin.com/posts/express-route-parameters/">External resource on URL Parameters</a></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><a href="Lessons/Week04/Day03/dev-skills-lab-part-1.md">Dev Skills Lab Part 1 (Deliverable)</a></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><a href="Lessons/Week04/Day04/dev-skills-lab-part-2.md">Dev Skills Lab Part 2 (Deliverable)</a></li>
+    </ul>
+  </td>
+  <!-- <td>
+    <ul>
+      <li><a href="Lessons/Week04/Day05/express-crud-mongoDB.md">Lab Part 01 (Deliverable)</a></li>
+    </ul>
+  </td> -->
+</tr>
+
+</tbody>
+</table>
+
+
+
 ### Unit 1 -  Week 3 (Aug 22nd - Aug 26th)
 
 <table>
