@@ -346,7 +346,7 @@ Give the `Atm` class a `backupAccount` property that can, optionally, contain a 
 
 > 15 minutes exercise. 5 minutes review.
 
-### Create a `RecordAlbums` Class - Lab (20 minutes)
+### Create a `RecordAlbums` Class - Lab (30 minutes)
 
 It should have the following properties...
 
@@ -372,7 +372,7 @@ Create a "getter" and "setter" methods for retrieving and updating `artistName`,
 
 > 15 minutes exercise. 5 minutes review.
 
-### ES6 Classes Body Shop - Lab (30 minutes)
+### ES6 Classes Body Shop - Lab (40 minutes)
 
 We need a prototype for a car. Can you help us with your sweet JavaScript skills?
 
