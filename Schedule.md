@@ -54,7 +54,7 @@
     <td>
    OFF </td>
   <td> <a href="Lessons/Week04/Day01/OOJS/README.md">Object Oriented JavaScript and Classes</a> <br>
-   <a href="Lessons/Week04/Day01/OOJS/README.md#Labs">JS Classes Lab</a> </td>
+   <a href="Lessons/Week04/Day01/OOJS/README.md#Labs">JS Classes Lab (Deliverable)</a> </td>
   <td>Express Continued</td>
   <td>
   <a href="Lessons/Week04/Day02/express-lesson.md#express-as-an-api-1">Express API CRUD</a></td>
@@ -69,7 +69,7 @@
     <td>
    OFF </td>
   <td>  <ul>
-      <li><a href="Lessons/Week04/Day01/OOJS/README.md">JS Classes Lab</a></li>
+      <li><a href="Lessons/Week04/Day01/OOJS/README.md">JS Classes Lab (Deliverable)</a></li>
       <li>Review notes/recording. Write lots of code! Practice.</li>
     </ul></td>
   <td>
