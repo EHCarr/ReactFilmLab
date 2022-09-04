@@ -6,6 +6,101 @@
 <i><strong>Homework due dates</strong>: Deliverables are always due 1 week after they are assigned, at midnight. (Ie., A deliverable assigned Monday January 1st will be due Monday January 8th at midnight). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
 
+<br>
+</hr>
+<br>
+
+### Unit 2 - Week 5 (Sep 05th - Sep 9th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+    <td>
+    <a href="https://www.codewars.com/kata/56efc695740d30f963000557/train/javascript">Warmup</a> <br>
+          <a href="Lessons/Week04/Day05/express-crud-mongoDB.md">Express CRUD - MongoDB</a></td>
+
+  <td> <a href="https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/javascript">Warmup # 1</a> <br>
+    <a href="https://www.codewars.com/kata/569d488d61b812a0f7000015/train/javascript">Warmup # 2</a> <br>
+  <a href="Lessons/Week05/Day01/mongoose-associations/readme.md">Mongoose Associations</a>  </td>
+  <td> 
+      <a href="Projects/Project-2/readme.md">Project 02</a></br></br>
+
+  <a href="Lessons/Week05/Day02/express-auth/README.md">Express Authentication</a> 
+  </td>
+  <td> 
+<strong> Outcomes 09.30 am - 10.30 am</strong> </br></br>
+
+  <a href="Lessons/Week05/Day03/GroupGIT/README.md">Group GIT</a>
+  <br>  <br>
+  <a href="Lessons/Week05/Day03/GroupGIT/Lab-GroupGIT.md">Group GIT Practice</a>
+   </td>
+  <td>
+OFF
+  </td>  
+
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  
+  <td>
+  <a href="Lessons/Week04/Day05/express-crud-mongoDB.md">Express CRUD - MongoDB</a>
+  </td>
+
+  <td> <a href="Lessons/Week05/Day01/mongoose-associations/readme.md">Mongoose Associations</a>  </td>
+  <td><a href="Lessons/Week05/Day02/express-auth/README.md">Express Authentication</a> </td>
+  <td>
+  Finalize ERD & Wireframes</td>
+
+   <td>
+OFF
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+
+  <td>
+    <ul>
+      <li><a href="Lessons/Week04/Day05/express-crud-mongoDB.md">Lab Part 01 (Deliverable)</a></li>
+    </ul>
+  </td>
+
+  <td>     
+  <a href="Lessons/Week05/Day01/mongoose-intro.md">Mongoose Practice Lesson - Additional Material </a></br></br>
+    <a href="Lessons/Week05/Day01/mongoose-associations/readme.md#Lab"> Lab part 2 (Deliverable)</a></br></br>
+    <!-- <a href="Lessons/Week05/Day01/js-promises-lab">JS Promises Lab (Optional)</a> -->
+  </td>
+  <td>
+    <a href="Lessons/Week05/Day02/express-auth/README.md#Lab">Lab part 3 (Deliverable)</a><br /><br />
+  </td>
+  <td>
+     Catch up on Labs / Extra Challenges / Project 2 Planning
+  </td>
+  <td>
+OFF
+  </td>
+
+</tr>
+
+</tbody>
+</table>
+
+
+
 
 <br>
 </hr>
