@@ -3,7 +3,7 @@
 
 <i><strong>Homework submissions</strong>: Please submit homeworks <strong>daily</strong> (into your deliverables file or by creating a pull request). <strong>Partial submissions count</strong> so get into a habit of submitting them even if they aren't fully done yet!</i>
 
-<i><strong>Homework due dates</strong>: Deliverables are always due 1 week after they are assigned, at midnight. (Ie., A deliverable assigned Monday January 1st will be due Monday January 8th at midnight). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
+<i><strong>Homework due dates</strong>: Deliverables are always due 1 day after they are assigned, before 9am. (Ie., A deliverable assigned on Monday January 1st will be due on Wednessday January 3rd beofre 9am). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
 
 <br>
