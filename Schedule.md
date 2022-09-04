@@ -10,6 +10,56 @@
 </hr>
 <br>
 
+### Unit 2 - Week 6 (Sep 12th - Sep 16th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td> Work on Project 2 <br/><br/> </td>
+  <td> Work on Project 2 <br/><br/> </td>
+  <td> Work on Project 2 <br/><br/> </td>
+  <td> <a href="Lessons/Week06/Day04/atlas-hosted-mongodb.md"> Atlas Hosted Mongodb </a> <br/>
+  <a href="Lessons/Week06/Day04/deploy-express-heroku.md"> Express Deployment on Heroku <br/> </td>
+  <td> Project 2 Presentations <br/><br/> </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td> Work on Project 2 <br/><br/> </td>
+  <td> Work on Project 2 <br/><br/> </td>
+  <td> Work on Project 2 <br/><br/> </td>
+  <td> Deployment <br/><br/> </td>
+  <td> Project 2 Presentations </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> Project 2 </td>
+  <td> Project 2 </td>
+  <td> Project 2 </td>
+  <td> Project 2 </td>
+  <td> Review Unit 2 & Finish Labs / Project 2</td>
+</tr>
+
+</tbody>
+</table>
+
+<br>
+</hr>
+<br>
+
 ### Unit 2 - Week 5 (Sep 05th - Sep 9th)
 
 <table>
@@ -46,9 +96,7 @@
   <br>  <br>
   <a href="Lessons/Week05/Day03/GroupGIT/Lab-GroupGIT.md">Group GIT Practice</a>
    </td>
-  <td>
-OFF
-  </td>  
+<td> Work on Project 2 <br/><br/> </td>
 
 </tr>
 
@@ -64,9 +112,7 @@ OFF
   <td>
   Finalize ERD & Wireframes</td>
 
-   <td>
-OFF
-  </td>
+<td> Work on Project 2 <br/><br/> </td>
 
 </tr>
 
@@ -90,9 +136,7 @@ OFF
   <td>
      Catch up on Labs / Extra Challenges / Project 2 Planning
   </td>
-  <td>
-OFF
-  </td>
+<td> Work on Project 2 <br/><br/> </td>
 
 </tr>
 
