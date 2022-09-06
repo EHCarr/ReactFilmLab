@@ -85,8 +85,8 @@ By the time you submit this project, you will have covered new ground in, and re
 
 ### Necessary Deliverables
 
-- Projects are due on Friday, 10th of June, 2022 at 10.30am!
-- You have to fill the [google sheet](https://docs.google.com/spreadsheets/d/1XsJ-Eqz6pfl1ALdTx4IYwm2jVdeBukDI/edit#gid=637205114) with you name, github link and deployed link.
+- Projects are due on Friday, 16th of Sep, 2022 at 10.30am!
+- You have to fill the [https://docs.google.com/spreadsheets/d/1aomZtNggeeAoQ7wzkJ5slmp-gLpWmdW5/edit#gid=637205114) with you name, github link and deployed link.
 - A **15~20 minute presentation** in which you answer the following questions:
   - What is the application about?
   - Is there any information you think might help us understand what you built?
