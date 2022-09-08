@@ -43,6 +43,7 @@ By the time you submit this project, you will have covered new ground in, and re
 ### Readme Requirements
 - Include ERD of your idea.
 - Include wireframes or link to wireframes.
+- Include screenshot of your trello board or link to your trello board.
 - Link to your deployed application.
 - List of unsolved problems.
 - Future enhancements.
