@@ -6,6 +6,103 @@
 <i><strong>Homework due dates</strong>: Deliverables are always due 1 day after they are assigned, before 9am. (Ie., A deliverable assigned on Monday January 1st will be due on Wednessday January 3rd beofre 9am). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
 
+### Unit 3 - Week 7 (June 13th - June 17th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+      <td>
+OFF
+  </td>
+  <td>
+    <a href="https://www.codewars.com/kata/5aee86c5783bb432cd000018/train/javascript"> Warmup </a><br><br>
+    <a href="Lessons/Week07/Day01/python-intro/python-intro.md">Intro to Python</a></br></br>
+    <a href="Lessons/Week07/Day01/python-control-flow/python-control-flow.md">Control Flow in Python</a>
+  </td>
+  <td>
+  <a href="https://www.codewars.com/kata/56b7f2f3f18876033f000307/train/python"> Warmup </a><br><br>
+    <a href="Lessons/Week07/Day02/python-containers/python-containers.md">Python Containers</a><br><br>
+        <a href="Lessons/Week07/Day02/Rock-Paper-Scissor.md">Python Containers LAB</a>
+  </td>
+  <td>
+   Outcomes 09:30 AM - 10:30 AM <br>
+<br><br>
+    <a href="Lessons/Week07/Day03/python-classes.md">Python Classes</a>
+  </td>
+  <td>
+  
+   <a href="https://www.codewars.com/kata/5697fb83f41965761f000052/train/python"> Warmup </a>
+   <br>
+  <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python"> Warmup </a> 
+  <br>
+ <a href="w07/d4/sql-intro.md">SQL Intro</a>
+  <br>
+
+
+  </td>
+  <!-- <td>
+   <a href="Warmups/W07D05_warmup/findHighestPriced.md"> Warmup </a> <br><br>
+    OFF
+  </td> -->
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+    <td>
+OFF
+
+  </td>
+  <td>
+     <a href="Lessons/Week07/Day01/python-functions/python-functions.md">Python Functions</a></br></br>
+  </td>
+  <td>
+   <a href="Lessons/Week07/Day02/python-containers/python-containers.md">Python Containers (Continued)</a><br><br>
+    <a href="Lessons/Week07/Day02/python-dictionary-labs.md">Python Containers LAB</a>
+  </td>
+  <td>
+    <a href="Lessons/Week07/Day03/python-decorators.md">Python Decorators</a></br></br>
+    Python Classes Lab
+  </td>
+
+  <td>
+ <a href="w07/d4/relational-data-modeling.md">Relational Data Modeling</a></br></br>    <a href="w07/d4/sql-joins/README.md">SQL Joins</a></br></br>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+    <td>
+OFF
+  </td>
+  <td>
+    <a href="Lessons/Week07/Day01/control-flow-lab">Lab: Control Flow (Deliverable)</a></br></br>
+  </td>
+  <td>
+    <a href="Lessons/Week07/Day02/python-functions-lab.md">Lab: Python Functions (Deliverable)</a></br></br>
+  </td>
+  <td>
+    <a href="Lessons/Week07/Day02/python-containers-lab.md">Lab: Python Containers (Deliverable)</a></br></br>
+  </td>
+  <td>Homework
+  </td>
+
+</tr>
+</tbody>
+</table>
+
+
 <br>
 </hr>
 <br>
