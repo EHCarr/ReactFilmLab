@@ -6,7 +6,7 @@
 <i><strong>Homework due dates</strong>: Deliverables are always due 1 day after they are assigned, before 9am. (Ie., A deliverable assigned on Monday January 1st will be due on Wednessday January 3rd beofre 9am). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
 
-### Unit 3 - Week 7 (June 13th - June 17th)
+### Unit 3 - Week 7 (Sep 19th - Sep 23th)
 
 <table>
 <thead>
