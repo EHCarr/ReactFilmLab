@@ -69,7 +69,7 @@ OFF
   </td>
   <td>
    <a href="Lessons/Week07/Day02/python-containers/python-containers.md">Python Containers (Continued)</a><br><br>
-    <a href="Lessons/Week07/Day02/python-dictionary-labs.md">Python Containers LAB</a>
+    <a href="Lessons/Week07/Day02/python-dictionary-labs.md">Python Dictionary LAB</a>
   </td>
   <td>
     <a href="Lessons/Week07/Day03/python-decorators.md">Python Decorators</a></br></br>
