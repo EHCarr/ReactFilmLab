@@ -39,13 +39,15 @@ OFF
   <td>
    Outcomes 09:30 AM - 10:30 AM <br>
 <br><br>
+  <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python"> Warmup </a>
+  <br><br>
     <a href="Lessons/Week07/Day03/python-classes.md">Python Classes</a>
   </td>
   <td>
   
    <a href="https://www.codewars.com/kata/5697fb83f41965761f000052/train/python"> Warmup </a>
    <br>
-  <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python"> Warmup </a> 
+ 
   <br>
  <a href="w07/d4/sql-intro.md">SQL Intro</a>
   <br>
