@@ -1,4 +1,4 @@
-**Challenge: 16-findHighestPriced**
+**Challenge: FindHighestPriced**
 
 Difficulty:  Intermediate  
 
