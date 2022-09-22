@@ -49,7 +49,7 @@ OFF
    <br>
  
   <br>
- <a href="w07/d4/sql-intro.md">SQL Intro</a>
+ <a href="Lessons/Week07/Day04/sql-intro.md">SQL Intro</a>
   <br>
 
 
@@ -79,7 +79,7 @@ OFF
   </td>
 
   <td>
- <a href="w07/d4/relational-data-modeling.md">Relational Data Modeling</a></br></br>    <a href="w07/d4/sql-joins/README.md">SQL Joins</a></br></br>
+ <a href="w07/d4/relational-data-modeling.md">Relational Data Modeling</a></br></br>    <a href="Lessons/Week07/Day04/sql-joins/README.md">SQL Joins</a></br></br>
   </td>
 </tr>
 
