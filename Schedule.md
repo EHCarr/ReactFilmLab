@@ -47,6 +47,8 @@ OFF
   
    <a href="https://www.codewars.com/kata/5697fb83f41965761f000052/train/python"> Warmup </a>
    <br>
+
+   <a href="Warmups/Week07/Day05/findHighestPriced.md"> 2nd Warmup </a>
  
   <br>
  <a href="Lessons/Week07/Day04/sql-intro.md">SQL Intro</a>
