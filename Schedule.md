@@ -6,6 +6,106 @@
 <i><strong>Homework due dates</strong>: Deliverables are always due 1 day after they are assigned, before 9am. (Ie., A deliverable assigned on Monday January 1st will be due on Wednessday January 3rd beofre 9am). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
 
+
+### Unit 3 - Week 8 (Sep 26th - Sep 30th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+
+  <td>
+
+  <a href="https://www.codewars.com/kata/586e1d458cb711f0a800033b/train/python"> Warmup </a> <br><br>
+
+  <a href="Lessons/Week07/Day05/django-intro/django-intro.md">Intro to Django</a></br></br>
+  </td>
+
+  <td>
+   <a href="https://www.codewars.com/kata/58ba6fece3614ba7c200017f/train/python"> Warmup </a> <br><br>
+    <a href="Lessons/Week08/Day01/intro-to-django-models/intro-to-django-models.md">Intro to Django Models</a><br/></br>
+  </td>
+  <td>
+ <a href="https://www.codewars.com/kata/563089b9b7be03472d00002b/train/python"> Warmup </a> <br><br>
+    <a href="Lessons/Week08/Day02/django-class-views/django-class-views.md">Django Class Views</a>
+  </td>
+  <td>
+<a href="Projects/Project-3/readme.md"> Project 3 Requirements </a></br></br>
+
+  <a href="Lessons/Week08/Day03/django-many-to-many-models/django-many-to-many-models.md">Django Many to Many Models</a></br></br>
+  </td>
+  <td>
+    <a href="Lessons/Week08/Day04/django-authentication/django-authentication.md">Django Authentication</a>
+      
+<!--   <a href="https://www.codewars.com/kata/585b1fafe08bae9988000314/train/python"> Warmup </a> <br><br> -->
+    
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+
+  <td>
+
+
+   <a href="Lessons/Week07/Day05/django-urls-views-templates/django-urls-views-templates.md">Django Urls, Views and Templates</a></br></br>
+
+  </td>
+  <td>
+    <a href="Lessons/Week08/Day01/intro-to-django-models/intro-to-django-models.md">Django Models</a>
+    <br><br>
+    Collector Lab</br>
+  </td>
+  <td>
+    <a href="Lessons/Week08/Day02/django-one-to-many-models/django-one-to-many-models.md">Django One to Many Models</a>
+    <br><br>
+    Collector Lab</br>
+  </td>
+  <td>
+    <a href="Lessons/Week08/Day03/django-many-to-many-models/django-many-to-many-models.md">Django Many to Many Models</a></br></br>
+    Collector Lab</br>
+  </td>
+  <td>
+  Collector Lab</br></br>
+  
+  </td>
+  <!-- <td>
+   <a href=""> Project 3 </a></br></br>
+    </br>Finalize ERD
+  </td> -->
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> 
+      <a href="Lessons/Week07/Day05/django-urls-views-templates/django-urls-views-templates.md#Lab">Django Urls, Views and Templates LAB <br> (Final version will be a deliverable)</a></br></td>
+  <td>Collector Lab</br></td>
+  <td>Collector Lab</br></td>
+  
+  <td>Collector Lab,</br>Project Planning</td>
+  <td>Work on Project 3 (Finlaize ERD)</td>
+
+</tr>
+</tbody>
+</table>
+
+
+<br>
+</hr>
+<br>
+
+
 ### Unit 3 - Week 7 (Sep 19th - Sep 23th)
 
 <table>
