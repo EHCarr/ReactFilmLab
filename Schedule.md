@@ -7,6 +7,56 @@
 
 
 
+### Unit 3 - Week 9 (Oct 03rd - Oct 07th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> <a href="Lessons/Week09/Day03/deploy-django-heroku.md">Deploy Django to Heroku</a> <br/><br/> </td>
+  <td> Project 3 Presentations <br/><br/> </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Project 3 Presentations  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> Project 3 </td>
+  <td> Project 3 </td>
+  <td> Project 3 </td>
+  <td> Project 3 </td>
+  <td> Review Unit 3 & Finish Labs / Project 3</td>
+</tr>
+
+</tbody>
+</table>
+
+<br>
+</hr>
+<br>
+
+
 ### Unit 3 - Week 8 (Sep 26th - Sep 30th)
 
 <table>
