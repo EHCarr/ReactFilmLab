@@ -7,7 +7,7 @@
 In the _Intro to JSX_ lesson, you saw the following React basics:
 
 - How to defining components as functions
-- How to return a function component's UI defined using JSX
+- How to return a class/ function component's UI defined using JSX
 - How to pass props to components
 - How to access the properties on props within a component.
 
@@ -15,7 +15,7 @@ In the _Intro to JSX_ lesson, you saw the following React basics:
 
 ## Set Up
 
-Please complete this lab in a React [CodeSandbox](https://codesandbox.io) named "Floor Plan".
+You can also complete this lab in a React [CodeSandbox](https://codesandbox.io) named "Floor Plan". (Optional)
 
 ## Minimum Requirements
 
