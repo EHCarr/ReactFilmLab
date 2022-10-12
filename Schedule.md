@@ -6,6 +6,295 @@
 <i><strong>Homework due dates</strong>: Deliverables are always due 1 day after they are assigned, before 9am. (Ie., A deliverable assigned on Monday January 1st will be due on Wednessday January 3rd beofre 9am). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
 
+
+### Unit 4 - Week 11 (Oct 17th - Oct 21st)
+
+<br>
+</hr>
+<br>
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+
+  <td> 
+
+  <a href="Lessons/Week11/day02/Readme.md"> React Fronend Appliction - Blog App  </a> <br/><br/> </td> 
+  <td> 
+   <a href="Lessons/Week11/day03/box-selector.md"> Warmup </a> <br/>  <br/><br/>
+  <a href="Lessons/Week11/day02/Readme.md"> React Fronend Appliction - Blog App -<br> Edit and Delete APIs</a> <br/><br/> </td>
+  <td>
+  Outcomes 09:30 AM - 10:30 AM <br/><br/>
+  <a href="Lessons/Week11/day03/Readme.md"> JWT Auth - React </a><br/><br/>
+  <br/><br/>  </td>
+ </td>
+   <td> <a href="Projects/project-4/readme.md"> Project 4 & Groups</a><br><br></td>
+  <td> Work on Project 4 <br/><br/> </td>
+
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td> <a href="Lessons/Week11/day02/Readme.md"> React Fronend Appliction - Blog App  </a>  <br/><br/> 
+  <a href=""> </a> <br/><br/> </td>  <td> <a href="Lessons/Week11/day02/Readme.md"> React Fronend Appliction - Blog App - <br> Edit and Delete APIs </a>  <br/><br/> 
+  <a href=""> </a> <br/><br/> </td>
+  <td>   <a href="Lessons/Week11/day03/Readme.md"> JWT Auth - React </a><br/><br/> 
+  <a href=""> </a><br/><br/> </td>
+
+  <td> <a href=""> Finalize ERD and Wireframes</a> </td>
+  <td> Work on Project 4 <br/><br/> </td>
+
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> <a href="Lessons/Week11/day02/Readme.md#LAB"> Homework </a> </td>
+  <td> <a href="Lessons/Week11/day02/Readme.md#LAB"> Homework </a> </td>
+  <td> <a href="Lessons/Week11/day03/Readme.md#LAB"> Homework </a> </td>
+  <td> <a href=""> Finalize ERD and Wireframes</a> </td>
+  <td> Work on Project 4 <br/><br/> </td>
+
+</tr>
+
+</tbody>
+</table>
+
+
+
+<br>
+</hr>
+<br>
+
+
+### Unit 4 - Week 10 (Oct 10th - Oct 14th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td> 
+  <a href="https://www.codewars.com/kata/559ac78160f0be07c200005a/train/javascript"> 1st Warmup </a> <br/><br/>
+  <a href="Lessons/Week10/Day01/HamingDistance.md"> 2nd Warmup </a> <br/><br/>
+
+  <a href="Lessons/Week10/Day01/README.md"> AJAX, APIs, Axio, Postman </a> <br/><br/> </td>
+  <td> <a href="Lessons/Week10/Day02/warmupW10D02.md"> Warmups </a> <br/><br/>
+  <a href="Lessons/Week10/Day02/ReactIntro/"> Intro to React  </a><br/><br/>
+  <a href="Lessons/Week10/Day02/ReactIntro/"> React Components and Props  </a><br/><br/>  </td>
+  <td> <a href="Lessons/Week10/Day03/warmupW10D03.md"> Warmups </a> <br/><br/>
+  <a href="Lessons/Week10/Day03/">React State</a> <br/><br/> </td>
+
+  <td> 
+  Outcomes 09:30 AM - 10:30 AM <br/><br/>
+  <a href="Lessons/Week10/Day04/warmup-w10d04-react/README.MD"> Warmup </a> <br/><br/>
+  <a href="Lessons/Week10/Day04/">React Axios / Component Lifecycle</a> <br/><br/> </td>
+  <td>
+  <a href="Lessons/Week10/Day05/W10D05_warmup/pokemon-event-handling.md"> Warmup </a> <br/><br/>
+  <a href="Lessons/Week10/Day05/"> React Router </a> <br/><br/> </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td> <a href="Lessons/Week10/Day01/README.md"> AJAX, APIs, Axio, Postman </a> <br/><br/> 
+  <a href="Lessons/Week10/Day01/MomentumLab/README.md"> Momentum Lab (Deliverable) </a> <br/><br/> </td>
+  <td>  <a href="Lessons/Week10/Day02/ReactIntro/"> React Components and Props  </a><br/><br/> 
+  <a href="Lessons/Week10/Day02/ReactIntro/react-floorplan-lab.md"> React Floorplan Lab (Deliverable) </a><br/><br/> </td>
+  <td> <a href="Lessons/Week10/Day03/">React State</a> <br/><br/> 
+  <a href="Lessons/Week10/React-Film-Lab/README.md"> React Film Lab - Intro </a> <br><br></td>
+  <td> <a href="Lessons/Week10/Day04/">React Axios / Component Lifecycle</a> <br/><br/>  </td>
+    <td><a href="Lessons/Week10/Day05/06-React-Router-Lab.md"> React Router LAB</a> <br/><br/> </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> <a href="Lessons/Week10/Day01/MomentumLab/README.md"> Momentum Lab (Deliverable) </td>
+  <td> <a href="Lessons/Week10/Day02/ReactIntro/react-floorplan-lab.md"> React Floorplan Lab (Deliverable) </a><br/><br/> </td>
+  <td> 
+  <a href="Lessons/Week10/React-Film-Lab/PART-1.md"> React Film Lab - Part 1 (Final version will be a deliverable) </a> </td>
+  <td> <a href="Lessons/Week10/React-Film-Lab/PART-2.md"> React Film Lab - Part 2 (Final version will be a deliverable) </a> </td>
+    <td><a href="Lessons/Week10/React-Film-Lab/PART-3.md"> React Film Lab - Part 3 (Final version will be a deliverable) </a> <br/><br/> 
+     <a href="Lessons/Week10/React-Film-Lab/PART-4.md"> React Film Lab - Part 4 (Final version will be a deliverable) </a><br/><br/> </td>
+</tr>
+
+</tbody>
+</table>
+
+<br>
+</hr>
+<br>
+
+
+### Unit 3 - Week 9 (Oct 03rd - Oct 07th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> <a href="Lessons/Week09/Day03/deploy-django-heroku.md">Deploy Django to Heroku</a> <br/><br/> </td>
+  <td> Project 3 Presentations <br/><br/> </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Work on Project 3 <br/><br/> </td>
+  <td> Project 3 Presentations  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> Project 3 </td>
+  <td> Project 3 </td>
+  <td> Project 3 </td>
+  <td> Project 3 </td>
+  <td> Review Unit 3 & Finish Labs / Project 3</td>
+</tr>
+
+</tbody>
+</table>
+
+<br>
+</hr>
+<br>
+
+
+### Unit 3 - Week 8 (Sep 26th - Sep 30th)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+
+  <td>
+
+  <a href="https://www.codewars.com/kata/586e1d458cb711f0a800033b/train/python"> Warmup </a> <br><br>
+
+  <a href="Lessons/Week07/Day05/django-intro/django-intro.md">Intro to Django</a></br></br>
+  </td>
+
+  <td>
+   <a href="https://www.codewars.com/kata/58ba6fece3614ba7c200017f/train/python"> Warmup </a> <br><br>
+    <a href="Lessons/Week08/Day01/intro-to-django-models/intro-to-django-models.md">Intro to Django Models</a><br/></br>
+  </td>
+  <td>
+ <a href="https://www.codewars.com/kata/563089b9b7be03472d00002b/train/python"> Warmup </a> <br><br>
+    <a href="Lessons/Week08/Day02/django-class-views/django-class-views.md">Django Class Views</a>
+  </td>
+  <td>
+<a href="Projects/Project-3/readme.md"> Project 3 Requirements </a></br></br>
+
+  <a href="Lessons/Week08/Day03/django-many-to-many-models/django-many-to-many-models.md">Django Many to Many Models</a></br></br>
+  </td>
+  <td>
+    <a href="Lessons/Week08/Day04/django-authentication/django-authentication.md">Django Authentication</a>
+      
+<!--   <a href="https://www.codewars.com/kata/585b1fafe08bae9988000314/train/python"> Warmup </a> <br><br> -->
+    
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+
+  <td>
+
+
+   <a href="Lessons/Week07/Day05/django-urls-views-templates/django-urls-views-templates.md">Django Urls, Views and Templates</a></br></br>
+
+  </td>
+  <td>
+    <a href="Lessons/Week08/Day01/intro-to-django-models/intro-to-django-models.md">Django Models</a>
+    <br><br>
+    Collector Lab</br>
+  </td>
+  <td>
+    <a href="Lessons/Week08/Day02/django-one-to-many-models/django-one-to-many-models.md">Django One to Many Models</a>
+    <br><br>
+    Collector Lab</br>
+  </td>
+  <td>
+    <a href="Lessons/Week08/Day03/django-many-to-many-models/django-many-to-many-models.md">Django Many to Many Models</a></br></br>
+    Collector Lab</br>
+  </td>
+  <td>
+  Collector Lab</br></br>
+  
+  </td>
+  <!-- <td>
+   <a href=""> Project 3 </a></br></br>
+    </br>Finalize ERD
+  </td> -->
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> 
+      <a href="Lessons/Week07/Day05/django-urls-views-templates/django-urls-views-templates.md#Lab">Django Urls, Views and Templates LAB <br> (Final version will be a deliverable)</a></br></td>
+  <td>Collector Lab</br></td>
+  <td>Collector Lab</br></td>
+  
+  <td>Collector Lab,</br>Project Planning</td>
+  <td>Work on Project 3 (Finlaize ERD)</td>
+
+</tr>
+</tbody>
+</table>
+
+
+<br>
+</hr>
+<br>
+
+
 ### Unit 3 - Week 7 (Sep 19th - Sep 23th)
 
 <table>
@@ -39,15 +328,19 @@ OFF
   <td>
    Outcomes 09:30 AM - 10:30 AM <br>
 <br><br>
+  <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python"> Warmup </a>
+  <br><br>
     <a href="Lessons/Week07/Day03/python-classes.md">Python Classes</a>
   </td>
   <td>
   
    <a href="https://www.codewars.com/kata/5697fb83f41965761f000052/train/python"> Warmup </a>
    <br>
-  <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python"> Warmup </a> 
+
+   <a href="Warmups/Week07/Day05/findHighestPriced.md"> 2nd Warmup </a>
+ 
   <br>
- <a href="w07/d4/sql-intro.md">SQL Intro</a>
+ <a href="Lessons/Week07/Day04/sql-intro.md">SQL Intro</a>
   <br>
 
 
@@ -69,7 +362,7 @@ OFF
   </td>
   <td>
    <a href="Lessons/Week07/Day02/python-containers/python-containers.md">Python Containers (Continued)</a><br><br>
-    <a href="Lessons/Week07/Day02/python-dictionary-labs.md">Python Containers LAB</a>
+    <a href="Lessons/Week07/Day02/python-dictionary-labs.md">Python Dictionary LAB</a>
   </td>
   <td>
     <a href="Lessons/Week07/Day03/python-decorators.md">Python Decorators</a></br></br>
@@ -77,7 +370,7 @@ OFF
   </td>
 
   <td>
- <a href="w07/d4/relational-data-modeling.md">Relational Data Modeling</a></br></br>    <a href="w07/d4/sql-joins/README.md">SQL Joins</a></br></br>
+ <a href="Lessons/Week07/Day04/relational-data-modeling.md">Relational Data Modeling</a></br></br>    <a href="Lessons/Week07/Day04/sql-joins/README.md">SQL Joins</a></br></br>
   </td>
 </tr>
 
